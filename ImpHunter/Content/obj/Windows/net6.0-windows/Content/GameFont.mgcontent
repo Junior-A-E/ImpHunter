@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/GameFont.spritefont</SourceFile>
+  <SourceTime>2023-07-15T10:37:56.4442094+02:00</SourceTime>
+  <DestFile>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/bin/Windows/Content/GameFont.xnb</DestFile>
+  <DestTime>2023-07-19T10:14:53.5941137+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/GameFont.spritefont</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_aim_big.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_aim_small.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_background.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_cannon_ball.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_cannon_barrel.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_cannon_carriage_bare.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_cannon_carriage.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_cannon_wheel.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_crosshair.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_fireball.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_gameover.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_guard_idle.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_guard_shrug.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_guard_thumbup.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_guard.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_imp_falling.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_imp_flying.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_imp_hit.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_imp.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_titlescreen.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_tower_bare.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_tower.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_towers.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_wall_bare.png</File>
+    <File>C:/Users/afatc/OneDrive/LICENCE/Bac4/Game Computing/ImpHunter_Start/ImpHunter_Start/ImpHunter/Content/spr_wall.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
